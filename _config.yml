@@ -40,3 +40,7 @@ nav_external_links:
   - title: My Github
     url: https://github.com/infiniterik
     hide_icon: false
+
+color_scheme: dark
+ga_tracking: G-J6D049BG2C
+ga_tracking_anonymize_ip: true
