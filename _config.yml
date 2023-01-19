@@ -31,7 +31,7 @@ github_username:  infiniterik
 
 # Build settings
 #remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
-theme: just-the-docs
+theme: academic-jekyll-theme
 
 heading_anchors: true
 
