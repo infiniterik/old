@@ -10,25 +10,14 @@ description: "index"
 
 <div class="d-none d-md-block float-right">
         <img class="mx-auto" src="/assets/images/profile.jpg" width="256" height="256"/>
-        <p>Assistant Professor of Computer Science</p>
-        <p>Knox College, Galesburg, IL, USA</p>
-        <p>Office: E205 SMC</p>
-        <p>Box: K-222</p>
+        <p>Researcher</p>
+        <p>NLP, LLMs, Generative AI, Cognitive Agents</p>
+        <p>JHUAPL</p>
 </div>
 
 <div class="d-block d-md-none">
         <img class="mx-auto" src="/assets/images/profile.jpg" width="256" height="256"/>
-        <p>Assistant Professor of Computer Science</p>
-        <p>Knox College, Galesburg, IL, USA</p>
-        <p>Office: E205 SMC</p>
-        <p>Box: K-222</p>
+        <p>Researcher</p>
+        <p>NLP, LLMs, Generative AI, Cognitive Agents</p>
+        <p>JHUAPL</p>
 </div>
-
-
-# hello, world.
-
-## Interests
-
-## Schedule an appointment
-
-* [Book office hours here.](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1FC9PdMLtIJJ7vabDTjUuk1X50sz_pV11-ex0z2Vl9t6ISaGhpHwHLD1olIW0rKwd4Rx9jqRzO)
